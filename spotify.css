@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+}
+
+.logo img {
+    filter: invert(100%);
+
+}
